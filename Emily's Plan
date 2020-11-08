@@ -1,0 +1,13 @@
+<title>Emily's Page</title>
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+
+  </head>
+  <body>
+    <img src="https://cdn.americanprogress.org/content/uploads/2020/03/23102035/Gender-Wage-Gap-_webfig_01.png" alt="Some cute images">
+    <h1>Emily's Plan</h1>
+    <p>
+      
+    <p>
